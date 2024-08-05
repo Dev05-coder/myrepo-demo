@@ -1,4 +1,4 @@
 # myrepo-demo
 This is my first repository.
 <br>
-Author - Devansh Chouhan
+Author - Devansh Chouhan (coder)
